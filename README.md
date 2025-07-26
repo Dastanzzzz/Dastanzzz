@@ -5,7 +5,6 @@
 <p align="center">
   <!-- Visitor Badges -->
   <img src="https://komarev.com/ghpvc/?username=Dastanzzzz&style=flat-square&color=blue" alt="GitHub Profile Views"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Dastanzzzz.Dastanzzzz&left_color=gray&right_color=blue" alt="Unique Visitors"/>
 </p>
 
 <p align="center">
