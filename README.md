@@ -19,11 +19,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonderfullgazzle&show_icons=true&theme=tokyonight" alt="Dastanz GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dastanzzzz&show_icons=true&theme=tokyonight" alt="Dastanz GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wonderfullgazzle&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dastanzzzz&theme=tokyonight" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonderfullgazzle&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dastanzzzz&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
