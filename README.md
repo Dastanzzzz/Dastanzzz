@@ -4,6 +4,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dastanzzzz&style=flat-square&color=blue" alt="Profile views"/>
+  <br/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Dastanzzzz.Dastanzzzz&left_color=gray&right_color=blue" alt="visitors"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Engineer-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/iOS-Developer-blue?style=for-the-badge&logo=apple" />
+  <img src="https://img.shields.io/badge/Backend-Learner-orange?style=for-the-badge&logo=serverless" />
 </p>
 
 ---
@@ -45,6 +53,14 @@
 
 ---
 
+### 📖 Currently Learning
+
+- ⚙️ Backend API design with Node.js & Express
+- ☁️ Firebase & Google Cloud Functions
+- 🧠 Clean Architecture & MVVM for Mobile Dev
+
+---
+
 ### 🏆 Certification
 
 ![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -77,6 +93,14 @@ Check out my professional resume for more details on my experience, skills, and 
 
 ---
 
+### 😄 Fun Facts
+
+- 🛠️ Started coding from modding Android games as a teen  
+- 🎧 Can't code without music (especially lo-fi hip hop or synthwave)  
+- ☕ Coffee-driven development is real
+
+---
+
 ### 📬 Contact & QR Code
 
 <p align="center">
@@ -95,5 +119,15 @@ Check out my professional resume for more details on my experience, skills, and 
 ### 🐍 GitHub Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dastanzzzz/snk/refs/heads/output/github-contribution-grid-snake-ocean.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Dastanzzzz/snk/output/github-contribution-grid-snake-blurple.svg" alt="snake gif" />
 </p>
+
+---
+
+### 💬 Personal Motto
+
+> “Stay curious, stay humble, and always ship it.” 🚀
+
+---
+
+<p align="center">Made with ❤️ by Dastanz — Keep Building. Keep Learning. 💻</p>
