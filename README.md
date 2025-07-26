@@ -3,10 +3,13 @@
 <h3 align="center">Android & iOS Developer | Cross-Platform Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dastanzzzz&style=for-the-badge&color=blue&label=Profile Views" alt="GitHub Profile Views"/>
+  <!-- Visitor Badges -->
+  <img src="https://komarev.com/ghpvc/?username=Dastanzzzz&style=flat-square&color=blue" alt="GitHub Profile Views"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Dastanzzzz.Dastanzzzz&left_color=gray&right_color=blue" alt="Unique Visitors"/>
 </p>
 
 <p align="center">
+  <!-- Role Badges -->
   <img src="https://img.shields.io/badge/ANDROID-ENGINEER-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-DEVELOPER-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/BACKEND-LEARNER-FF6F00?style=for-the-badge&logo=serverless&logoColor=white"/>
@@ -17,24 +20,17 @@
 ### 👨‍💻 About Me
 
 - 👨‍💻 Mobile Developer passionate about building clean, scalable, and efficient applications for Android & iOS platforms  
-- 🚀 Experienced in multi-platform development using **Kotlin**, **JavaScript**, **C++**, **HTML**, and **.NET Framework**
-- 🎓 Certified in:
-  - Google IT Support
-  - Cisco CCNA
-  - Mikrotik MTCNA
-  - Linux Sysadmin
-- 💬 I'm currently diving deeper into backend integration and modern mobile architectures
-- 📫 Reach me via:
-  - ✉️ Email: **destantyo.browen@gmail.com**
-  - 💼 [LinkedIn](https://www.linkedin.com/in/destantyoramadhan/)
-  - 📸 [Instagram](https://www.instagram.com/destantyo_browen/)
+- 🚀 Experienced in multi-platform development using **Kotlin**, **JavaScript**, **C++**, **HTML**, and **.NET Framework**  
+- 🎓 Certified in **Google IT Support**, **CCNA**, **MTCNA**, and **Linux Sysadmin**  
+- 🗣️ Currently exploring backend development with Node.js, Firebase, and clean architecture  
+- 📧 Email me: **destantyo.browen@gmail.com**  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dastanzzzz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dastanzzzz&show_icons=true&theme=tokyonight" alt="Dastanz GitHub Stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dastanzzzz&theme=tokyonight" alt="GitHub Streak"/>
   <br/>
@@ -57,18 +53,18 @@
 
 ### 📖 Currently Learning
 
-- ⚙️ Backend API design with Node.js & Express
-- ☁️ Firebase & Google Cloud Functions
-- 🧠 Clean Architecture & MVVM for Mobile Dev
+- Backend API design with Node.js & Express
+- Firebase + Google Cloud Functions
+- Clean Architecture for Mobile Development (MVVM, Repository Pattern)
 
 ---
 
-### 🏆 Certifications
+### 🏆 Certification
 
 ![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certificate-4285F4?style=flat-square&logo=google&logoColor=white)
-![CCNA](https://img.shields.io/badge/Cisco%20CCNA-Certified-blue?style=flat-square&logo=cisco&logoColor=white)
-![MTCNA](https://img.shields.io/badge/Mikrotik%20MTCNA-Certified-green?style=flat-square&logo=mikrotik&logoColor=white)
-![Sysadmin](https://img.shields.io/badge/Linux-Sysadmin-orange?style=flat-square&logo=linux&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco%20CCNA-Certified-0C76A8?style=flat-square&logo=cisco&logoColor=white)
+![MTCNA](https://img.shields.io/badge/Mikrotik%20MTCNA-Certified-D52C2C?style=flat-square&logo=mikrotik&logoColor=white)
+![Linux Sysadmin](https://img.shields.io/badge/Linux%20Sysadmin-Certified-333333?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
@@ -87,9 +83,6 @@
 
 ### 📄 Resume / Curriculum Vitae
 
-Looking to collaborate or hire?  
-Check out my professional resume for more details on my experience, skills, and qualifications:
-
 <p align="center">
   <a href="https://github.com/Dastanzzzz/CV-DESTANTYO" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
@@ -100,9 +93,9 @@ Check out my professional resume for more details on my experience, skills, and 
 
 ### 😄 Fun Facts
 
-- 🛠️ Started coding from modding Android games as a teen  
-- 🎧 Can't code without music (especially lo-fi hip hop or synthwave)  
-- ☕ Coffee-driven development is real
+- Started programming from modding Android games 
+- Lo-fi + kopi = semangat ngoding 
+- Menyukai debugging lebih dari coding (kadang-kadang) 
 
 ---
 
@@ -131,8 +124,6 @@ Check out my professional resume for more details on my experience, skills, and 
 
 ### 💬 Personal Motto
 
-> “Stay curious, stay humble, and always ship it.” 🚀
-
----
+> "Stay curious, stay humble, and always ship it." 🚀
 
 <p align="center">Made with ❤️ by Dastanz — Keep Building. Keep Learning. 💻</p>
