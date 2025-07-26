@@ -95,5 +95,5 @@ Check out my professional resume for more details on my experience, skills, and 
 ### 🐍 GitHub Snake Animation
 
 <p align="center">
-  <img src="https://github.com/Dastanzzzz/Dastanzzzz/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Dastanzzzz/snk/refs/heads/output/github-contribution-grid-snake-ocean.svg" alt="snake gif" />
 </p>
