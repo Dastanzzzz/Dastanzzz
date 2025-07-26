@@ -12,7 +12,7 @@
 - 📫 Reach me via:
   - ✉️ Email: **destantyo.browen@gmail.com**
   - 💼 [LinkedIn](https://www.linkedin.com/in/destantyoramadhan/)
-  - 📸 [Instagram](https://www.instagram.com/destantyobrowen/)
+  - 📸 [Instagram](https://www.instagram.com/destantyo_browen/)
 
 ---
 
@@ -43,5 +43,5 @@
 <p align="center">
   <a href="mailto:destantyo.ramadhan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/destantyoramadhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/destantyobrowen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/destantyo_browen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
